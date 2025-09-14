@@ -74,11 +74,11 @@ mvn spring-boot:run
 The server will start at:
 👉 http://localhost:8080
 
+#### - Postgres pgAdmin 4 home page screenshot with the connected "flexisaf_db" database and showing "user_data table"
+![img.png](src/main/resources/images/img.png)
 
 ## Learning Outcome
 - Learned how to setup a development environment with PostgreSQL and Spring Boot
 - Learned Maven build tool usage
 - Learned basic CRUD operations using Spring Data JPA
 
-#### - Postgres pgAdmin 4 home page screenshot with the connected "flexisaf_db" database and showing "user_data table"
-![img.png](src/main/resources/images/img.png)
