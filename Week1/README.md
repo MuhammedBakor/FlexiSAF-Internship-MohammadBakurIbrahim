@@ -74,7 +74,7 @@ mvn spring-boot:run
 The server will start at:
 👉 http://localhost:8080
 
-#### - Postgres pgAdmin 4 home page screenshot with the connected "flexisaf_db" database and showing "user_data table"
+#### - Postgres pgAdmin 4 home page screenshot with the connected "flexisaf_db" database and showing "user_data" table.
 ![img.png](FlexiSAF-Internship-backend/src/main/resources/images/img.png)
 
 ## Learning Outcome
