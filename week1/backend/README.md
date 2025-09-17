@@ -4,7 +4,7 @@
 - Setup a DBMS (PostgreSQL) and DBMS admin tools
 - Setup a Spring Boot application using Maven
 - Connect Spring Boot to PostgreSQL
-- Implement a simple "UserData" entity with CRUD operations
+
 
 ---
 
@@ -78,5 +78,4 @@ The server will start at:
 ## Learning Outcome
 - Learned how to setup a development environment with PostgreSQL and Spring Boot
 - Learned Maven build tool usage
-- Learned basic CRUD operations using Spring Data JPA
 
